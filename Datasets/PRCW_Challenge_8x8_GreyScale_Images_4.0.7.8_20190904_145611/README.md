@@ -1,4 +1,4 @@
-# Dataset to assess the performance of TensorFlow algorithms
+# Dataset of High Local-Complexity Images
 
 The goal of the dataset is to assess the performance of deep neural network and other machine learning algorithms within the TensorFlow framework in case of complex non-stationary data
  
